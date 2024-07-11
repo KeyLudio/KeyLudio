@@ -13,4 +13,4 @@
 
 ## Coding Activity
 
-[![KeyLudio's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername)](https://github.com/anuraghazra/github-readme-stats)
+[![KeyLudio's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeyLudio)](https://github.com/anuraghazra/github-readme-stats)
