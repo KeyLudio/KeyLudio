@@ -15,7 +15,7 @@
 ## GitHub Stats
 
 ![KeyLudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyLudio&show_icons=true&theme=radical)
-
+<!--
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyLudio&layout=compact)
@@ -23,7 +23,7 @@
 ## GitHub Activity
 
 [![KeyLudio's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KeyLudio)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KeyLudio)
